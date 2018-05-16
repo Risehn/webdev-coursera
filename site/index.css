@@ -30,6 +30,7 @@ body{
 }
 h2{
   padding-left: 115px;
+  /*color: blue;*/
 }
 p{padding-left: 115px;}
 p.abstract{font-weight: bold;}
