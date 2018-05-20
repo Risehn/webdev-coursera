@@ -35,7 +35,7 @@
 	.group:after 					{ display: block; height: 0; font-size: 0; content: "."; clear: both; visibility: hidden; } /* For clearing */
 	*								{ -moz-box-sizing:border-box; -webkit-box-sizing:border-box; box-sizing:border-box; } /* Apply a natural box layout model to all elements — see http://paulirish.com/2012/box-sizing-border-box-ftw */
 
-	::-moz-selection 				{ background:#333; color:red; }
+	::-moz-selection 				{ background:#333; color:#fff; }
 	::selection 					{ background:#333; color:#fff; }
 
 	/* ----------------------------------------------------------------------------------------------------------

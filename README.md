@@ -5,7 +5,7 @@ You can use the [editor on GitHub](https://github.com/Risehn/webdev-coursera/edi
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 ### Sth for sync
 `browser-sync start --server --files "css/*.css, *.html"`
-cd /D D:\GitHub\webdev-coursera\site
+`cd /D D:\GitHub\webdev-coursera\site`
 
 ### Markdown
 
