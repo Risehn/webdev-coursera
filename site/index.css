@@ -12,9 +12,10 @@ body{
 }
 .nav{
   float: left;
-  width: 100px;
-  padding-left: 5px;
+  width: 80px;
+  padding-left: 15px;
   font-weight: bold;
+  /*border: 1px solid black;*/
 }
 .page{
   margin-left: auto;
@@ -26,7 +27,7 @@ body{
 }
 .context{
   padding:10px;
-  margin-left: 100px;
+  margin-left: 60px;
 }
 h2{
   padding-left: 115px;
