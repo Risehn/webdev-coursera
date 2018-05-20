@@ -3,8 +3,9 @@
 You can use the [editor on GitHub](https://github.com/Risehn/webdev-coursera/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-### Sth for async
+### Sth for sync
 `browser-sync start --server --files "css/*.css, *.html"`
+cd /D D:\GitHub\webdev-coursera\site
 
 ### Markdown
 
